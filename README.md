@@ -1,11 +1,11 @@
-# Sentiment Analysis Pipeline
+# Sentiment Analysis Pip
 
 ## Setup 
 Operating System: `Windows 11`
 
 Clone the repository 
 ```
-git clone 
+git clone https://github.com/Sharath1036/sentiment-analysis-pipeline.git
 ```
 
 Install virtual environment and activate it
