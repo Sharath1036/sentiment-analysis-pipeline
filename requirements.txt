@@ -1,0 +1,13 @@
+numpy
+pandas
+seaborn
+scikit-learn
+matplotlib
+torch
+nltk
+transformers
+tabulate
+fastapi
+uvicorn
+pydantic
+python-multipart
